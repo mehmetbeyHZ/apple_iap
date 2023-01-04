@@ -1,0 +1,21 @@
+{
+    "name": "mehmetbeyhz/apple_iap",
+    "description": "Apple in app purchases",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AppleIAP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mehmetbeyhz",
+            "email": "mehmetbeyhz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "mehmetbeyhz/easy-json-mapper": "dev-master",
+        "mehmetbeyhz/mclient": "dev-master"
+    }
+}
